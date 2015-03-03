@@ -7,6 +7,6 @@ values out, using their position in the list.
 
 LANGUAGES = ['python', 'c', 'java']
 
-print "The language is %s!" % LANGUAGES[0]
-print "The language is %s!" % LANGUAGES[-2]
-print "The language is %s!" % LANGUAGES[2]
+print LANGUAGES[0]
+print LANGUAGES[-2]
+print LANGUAGES[2]
