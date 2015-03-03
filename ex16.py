@@ -7,6 +7,6 @@ items, and then print a message that includes at least one item from your list.
 Your sentence could be as simple as, "One item in my list is a ____."
 """
 
-LANGUAGES = ['banana', 'apple', 'pomegranate', 'mango']
+FRUITS = ['banana', 'apple', 'pomegranate', 'mango']
 
-print "One item in my list is a %s." % LANGUAGES[2]
+print "One item in my list is a %s." % FRUITS[2]
