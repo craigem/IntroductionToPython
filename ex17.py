@@ -7,7 +7,7 @@ list.
 
 """
 
-FRUITS = ['banana', 'apple', 'pomegranate', 'mango']
+LANGUAGES = ['python', 'c', 'java']
 
-for fruit in FRUITS:
-    print fruit
+for language in LANGUAGES:
+    print language
